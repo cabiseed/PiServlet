@@ -17,7 +17,7 @@ public class PiServlet extends HttpServlet {
 
 			PrintWriter out = resp.getWriter();
 			// 
-			out.println("Pi Servlet");
+			out.println("ProjPiServlet");
 			out.println( new java.util.Date());
 			out.println( "viewcount = " + viewcount );
 			viewcount++;
