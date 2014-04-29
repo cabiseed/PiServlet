@@ -1,0 +1,9 @@
+# .class
+*.class
+
+# classesディレクトリは無視
+classes/
+
+# tags
+tags
+
